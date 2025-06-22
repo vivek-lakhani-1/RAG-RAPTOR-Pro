@@ -1,4 +1,3 @@
-```markdown
 # 🦅 Advanced-RAPTOR: Recursive Summarization + Vector Search for Scalable RAG
 
 **Advanced-RAPTOR** is a multi-stage, recursive document processing and retrieval system that integrates **RAPTOR-style summarization**, **clustering**, and **retrieval-augmented generation (RAG)** to enable accurate, context-rich answers from large PDF documents.
